@@ -12,4 +12,4 @@ Astrbot插件
 ### napcat平台均无法艾特用户进行回复
 ### 以下是其余两个我写的插件同样有napcat平台无法艾特用户回复的问题。
 ### https://github.com/yuweitk/astrbot_plugin_64gua
-### (https://github.com/yuweitk/astrbot_plugin_zhuge
+### https://github.com/yuweitk/astrbot_plugin_zhuge

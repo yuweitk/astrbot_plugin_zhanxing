@@ -2,4 +2,4 @@ name: 占星骰子
 author: 雨爲/yuweitk
 description: 结合LLM大模型进行占星骰子占卜的插件
 version: 1.0.0
-repository: https://github.com/yourname/astrbot_plugin_zhanxing
+repository: https://github.com/yuweitk/astrbot_plugin_zhanxing
